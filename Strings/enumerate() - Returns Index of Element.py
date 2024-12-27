@@ -1,5 +1,4 @@
-### enumerate() operator -  ###
-
+### enumerate() - Returns Index of Element in String ###
 
 ## Display index along with element
 fruits = ['apple', 'orange', 'mango']
