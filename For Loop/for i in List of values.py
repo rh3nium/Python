@@ -1,6 +1,6 @@
-### For i in range ###
+### for i in range ###
 
-# For i in list of values
+# for i in list of values
 fruits = ['mango', 'orange', 'apple', 'banana']
 for i in fruits:
     print (i)
