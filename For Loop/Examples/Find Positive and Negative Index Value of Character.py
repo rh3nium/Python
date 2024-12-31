@@ -1,4 +1,4 @@
-### Find the positive and negative index value of 'U' in the following string: str = "PES University"###
+### Find the positive and negative index value of 'U' in the string "PES University"###
 
 str2 = "PES University"
 
@@ -13,4 +13,3 @@ for i in range(len(str2)):
                print ("Negative index: ", negative_index)
 
 # Output: Negative index: -10
-
