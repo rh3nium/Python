@@ -1,4 +1,4 @@
-### for loop - Find sum of digits of a number entered by user ###
+### Print sum of digits of a number input by user ###
 
 n = int(input("Enter a number: "))
 
