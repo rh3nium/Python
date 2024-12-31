@@ -1,4 +1,4 @@
-### For i in range ###
+### for i in range ###
 
 # For i in range(x)
 for i in range(6):
@@ -13,5 +13,3 @@ hello
 hello
 hello
 '''
-
-
