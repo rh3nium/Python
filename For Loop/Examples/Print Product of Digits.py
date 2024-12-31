@@ -1,4 +1,4 @@
-### Find product of digits of a number input by user ###
+### Print product of digits of a number input by user ###
 
 n = int(input("Enter a number: "))
 
