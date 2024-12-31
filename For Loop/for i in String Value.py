@@ -1,4 +1,4 @@
-### For i in string value ###
+### for i in string value ###
 
 # for i in string - prints each character in string
 for i in "STRING":
