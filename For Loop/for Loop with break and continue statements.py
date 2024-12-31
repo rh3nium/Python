@@ -1,6 +1,5 @@
 ### for loop with break and continue statements ###
 
-
 # break statement - Print all characters in a string until it reaches a specific character
 for i in "String":
     # if character i reached is "n", terminate the process - don't print "n"
@@ -14,4 +13,3 @@ for i in "String":
     if i=="r":
         continue
     print (i)
-
