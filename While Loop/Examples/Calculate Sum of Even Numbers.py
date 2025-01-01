@@ -12,6 +12,3 @@ while count<10:
     count +=1
 
 print("Sum of first 10 even numbers = ", sum_even_nums)
-
-
-        
