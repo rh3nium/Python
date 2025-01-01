@@ -1,4 +1,4 @@
-### Print numbers 1-10 with their squares ###
+### Print squares of numbers ###
 
 n = 1
 while (n<=10):
