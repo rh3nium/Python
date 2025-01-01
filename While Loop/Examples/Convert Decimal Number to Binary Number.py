@@ -11,4 +11,3 @@ while n>0:
     n = n/2
 
 print("Binary number = ", bin)
-        
