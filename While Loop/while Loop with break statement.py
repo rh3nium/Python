@@ -1,3 +1,5 @@
+### while Loop with break statement ###
+
 count = 0
 
 while count<10:
@@ -7,7 +9,3 @@ while count<10:
     count=count+1
 else:
     print("inside else block")
-    
-
-    
-    
