@@ -1,4 +1,4 @@
-### Accept 2 variables and calculate sum and subtraction and return both values in single return cell ### ###
+### Calculate Sum and Difference of 2 Numbers ###
 
 def calculation(x, y):
     sum = x + y
