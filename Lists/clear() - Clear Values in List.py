@@ -1,5 +1,4 @@
-### Lists - Clear Values ###
-
+### clear() - Clear Values in list ###
 
 List1 = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 
