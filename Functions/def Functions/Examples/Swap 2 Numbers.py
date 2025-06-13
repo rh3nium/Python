@@ -1,12 +1,29 @@
-### Swap two numbers ###
+### Swap 2 numbers ###
 
-def swapnos(n1, n2):
-    if n1<n2:
-        print(n2, n1)
-    else:
-        print (n1, n2)
+def swap_numbers(a, b):
+    # Print values before swapping
+    print("Before swapping:")
+    print("a =", a)
+    print("b =", b)
 
-n1 = int(input("Enter number 1: "))
-n2 = int(input("Enter number 2: "))
+    # Swap using a temporary variable
+    temp = a
+    a = b
+    b = temp
 
-swapnos(n1, n2)
+    # Print values after swapping
+    print("\nAfter swapping:")
+    print("a =", a)
+    print("b =", b)
+
+swap_numbers(5, 10)
+
+''' Output:
+Before swapping:
+a = 5
+b = 10
+
+After swapping:
+a = 10
+b = 5
+'''
