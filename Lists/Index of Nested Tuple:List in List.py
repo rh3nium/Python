@@ -2,7 +2,7 @@
 
 list = [10,23,"34A",(2,3),[5,8],2]
 
-# Index of value inside tuple in the list - list[index of tuple elements][index of value inside tuple element]
+# Index of value inside tuple in the list - list[index of tuple element][index of value inside tuple element]
 list[4][0]
 print(list[4][0])
 
