@@ -1,4 +1,4 @@
-### Python - Lists - Empty List ###
+### Empty List ###
 
 list = []
 print (list)
