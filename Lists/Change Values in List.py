@@ -1,4 +1,4 @@
-### Lists - Changing Values in a List ###
+### Change Values in List ###
 
 list = [1,2,3,4,5,6,7,8]
 
