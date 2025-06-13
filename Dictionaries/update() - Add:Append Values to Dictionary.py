@@ -1,4 +1,4 @@
-### Append Values to dictionary ###
+### update() - Append Values to dictionary ###
 
 dict1 = {1: 'Python', 2: 'Java', 3: 'C++'}
 
