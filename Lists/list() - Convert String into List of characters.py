@@ -6,5 +6,6 @@ print (list(word))
 
 # Convert "Practice" into list
 word = "Practice"
-print (list(word))
-# Output: ['P', 'r', 'a', 'c', 't', 'i', 'c', 'e']
+
+# Print updated list
+print (list(word)) # Output: ['P', 'r', 'a', 'c', 't', 'i', 'c', 'e']
