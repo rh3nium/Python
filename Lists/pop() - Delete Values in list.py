@@ -7,4 +7,4 @@ print (list)
 list.pop(-3)
 
 # Print updated list
-print (list)
+print (list) # Output: list = [12,34,"AA"]
