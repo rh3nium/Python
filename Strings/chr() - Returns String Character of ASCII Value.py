@@ -1,4 +1,4 @@
-### chr() operator - Returns Charcter of ASCII Value ###
+### chr() operator - Returns Character of ASCII Value ###
 
 
 x = 65
