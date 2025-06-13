@@ -1,10 +1,9 @@
-### Lists - Insert Values ###
-
+### insert() - Insert Values in list ###
 
 List1 = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 
 # Insert element in list at specific index
 List1.insert(3,"asparagus")
 
-# print the updated list to verify
+# print updated list
 print (List1)
