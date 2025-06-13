@@ -6,4 +6,4 @@ List1 = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 List1.insert(3,"asparagus")
 
 # print updated list
-print (List1)
+print (List1) # Output: List1 = ["carrot", "potato", "lettuce", "asparagus", "beans", "corn", "capsicum"]
