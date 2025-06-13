@@ -1,5 +1,4 @@
-### Store Roll No.s and Names of Students in Dictionary ###
-
+### Store Roll Numbers and Names of Students in Dictionary ###
 
 d = {}
 
@@ -9,4 +8,3 @@ for i in range(5):
     d[rollno] = name
 
 print (d)
-    
