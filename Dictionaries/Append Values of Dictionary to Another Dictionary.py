@@ -1,5 +1,4 @@
-### Dictionaries - Add/Append Dictionary to Another Dictionary
-
+### Add/Append Dictionary to Another Dictionary ###
 
 # Create a dictionary
 d = {}
@@ -17,8 +16,8 @@ name = input("Enter name of student: ")
 phoneno = int(input("Enter phone number: "))
 d[name] = phoneno
 
-# append the values in dictionary d2 to d1
+# append values in dictionary d2 to d1
 d.update(d2)
 
-# print the updated dictionary after appending values
+# print updated dictionary after appending values
 print (d)
