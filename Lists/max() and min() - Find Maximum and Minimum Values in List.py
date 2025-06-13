@@ -1,4 +1,4 @@
-### max(), min() - Find maximum and minimum values in list ######
+### max(), min() - Find maximum and minimum values in list ###
 
 list1 = [12,43,21,1]
 
