@@ -1,4 +1,4 @@
-### Python - Lists - Convert String Into List
+### list() - Convert String Into List
 
 word = "Word1 Word2"
 print (list(word))
