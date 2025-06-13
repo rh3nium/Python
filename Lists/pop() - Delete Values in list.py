@@ -1,4 +1,4 @@
-### Lists - Deleting Values using pop() function ######
+### pop() - Delete Values in list ######
 
 list = [12,34,"AA","SD"]
 print (list)
@@ -6,5 +6,5 @@ print (list)
 # delete element in list using pop() function, specifying index
 list.pop(-3)
 
-# Print the updated list
+# Print updated list
 print (list)
