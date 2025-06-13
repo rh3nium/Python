@@ -1,4 +1,4 @@
-# Bubble Sort - Array
+### Bubble Sort - Array ###
 
 def bubbleSort(arr):
     l = len(arr)
@@ -12,4 +12,3 @@ def bubbleSort(arr):
 
 arr = [17, 28, 25, 1, 32, 3, 40]
 bubbleSort(arr)
-
