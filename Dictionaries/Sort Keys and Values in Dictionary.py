@@ -1,5 +1,4 @@
-### Dictionaries - Sorting Keys and Values in a Dictionary ######
-
+### Sort Keys and Values in Dictionary ######
 
 dict = {12:2,43:34,21:11,1:7}
 
