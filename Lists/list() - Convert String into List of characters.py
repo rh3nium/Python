@@ -1,4 +1,4 @@
-### list() - Convert String Into List
+### list() - Convert String Into List ###
 
 word = "Word1 Word2"
 print (list(word)) # Output: ['W', 'o', 'r', 'd', '1', ' ', 'W', 'o', 'r', 'd', '2']
