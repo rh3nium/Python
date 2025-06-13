@@ -1,4 +1,4 @@
-### Lists - Make a Copy of a List ###
+### copy() - Make a Copy of a List ###
 
 
 List1 = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
