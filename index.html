@@ -21,6 +21,28 @@
       position: relative;
     }
 
+    .scanlines {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: repeating-linear-gradient(
+        to bottom,
+        rgba(255, 140, 0, 0.1) 0px,
+        rgba(255, 140, 0, 0.1) 2px,
+        transparent 2px,
+        transparent 4px
+      );
+      animation: moveScanlines 6s linear infinite;
+      z-index: 0;
+      pointer-events: none;
+    }
+    @keyframes moveScanlines {
+      from { background-position-y: 0; }
+      to { background-position-y: -100px; }
+    }
+
     h1 {
       font-family: 'Silkscreen', cursive;
       font-size: 40px;
@@ -44,6 +66,7 @@
       z-index: 1;
       transition: all 0.3s ease-in-out;
       transform: scale(1);
+      position: relative;
     }
     .box:hover {
       transform: scale(1.03);
@@ -62,6 +85,7 @@
     a {
       color: #ffb84d;
       text-decoration: none;
+      transition: color 0.3s ease;
     }
     a:hover {
       text-decoration: underline;
@@ -100,8 +124,11 @@
     }
   </style>
 </head>
+
 <body>
-  <h1>Python Repository</h1>
+  <div class="scanlines"></div>
+
+  <h1><span style="font-family: Arial;"><b>##</b></span> Python Repository <span style="font-family: Arial;">##</span></h1>
 
   <div class="box">
     <h2>🐍 Python Overview</h2>
@@ -143,9 +170,5 @@
     </ol>
   </div>
 
-  <div class="box">
-    <h2>🔧 Usage</h2>
-    <p>Each folder contains self-contained examples demonstrating Python concepts like loops, data types, and functions. Explore, modify, and learn interactively!</p>
-  </div>
 </body>
 </html>
