@@ -10,18 +10,18 @@ This repository features structured Python programs, organized by concept and mo
 
 ## 📁 Sub-folders
 
-* Dictionaries
-* For Loop
-* Functions
-* If-Else-Elif Statements
-* Keywords and Identifiers
-* Lists
-* Sets
-* Strings
-* Tkinter
-* Try-Except-Finally Statements
-* Tuples
-* While Loop
+* [Dictionaries](https://github.com/rh3nium/Python/tree/main/Dictionaries)
+* [For Loop](https://github.com/rh3nium/Python/tree/main/For%20Loop)
+* [Functions](https://github.com/rh3nium/Python/tree/main/Functions)
+* [If-Else-Elif Statements](https://github.com/rh3nium/Python/tree/main/If-Else-Elif%20Statements)
+* [Keywords and Identifiers](https://github.com/rh3nium/Python/tree/main/Keywords%20and%20Identifiers)
+* [Lists](https://github.com/rh3nium/Python/tree/main/Lists)
+* [Sets](https://github.com/rh3nium/Python/tree/main/Sets)
+* [Strings](https://github.com/rh3nium/Python/tree/main/Strings)
+* [Tkinter](https://github.com/rh3nium/Python/tree/main/Tkinter)
+* [Try-Except-Finally Statements](https://github.com/rh3nium/Python/tree/main/Try-Except-Finally%20Statements)
+* [Tuples](https://github.com/rh3nium/Python/tree/main/Tuples)
+* [While Loop](https://github.com/rh3nium/Python/tree/main/While%20Loop)
 
 ---
 
@@ -29,15 +29,15 @@ This repository features structured Python programs, organized by concept and mo
 
 To get a local copy of this repository, follow these steps:
 
-1.  **Run the `git clone` command** to make a copy of this repository on your local machine:
+1. **Run the `git clone` command** to make a copy of this repository on your local machine:
     ```bash
     git clone [https://github.com/rh3nium/Python](https://github.com/rh3nium/Python)
     ```
-2.  **Navigate to the folder:**
+2. **Navigate to the folder:**
     ```bash
     cd Python
     ```
-3.  **Run any Python file** using the interpreter:
+3. **Run any Python file** using the interpreter:
     ```bash
     python filename.py
     # OR (depending on your system configuration)
@@ -48,15 +48,15 @@ To get a local copy of this repository, follow these steps:
 
 ## ⚙️ Setting up Python
 
-To execute Python programs on your computer, you need the **Python IDLE**.
+To execute Python programs on your computer, you need the **Python Interpreter**.
 
-### Python IDLE Installation and Setup
-Steps to download and set up the Python Integrated Development Environment:
-1. Visit the official Python website's Downloads page: https://www.python.org/downloads/
+### Python Interpreter Installation and Setup
+
+1. Visit the official Python website's Downloads page: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Choose the correct Python version for your device.
-3. Click the 'Download Python' button in yellow color.
-4. Open the downloaded file and go through a few more steps in the installation process in a pop-up window.
-5. Run the Python IDLE application.
+3. Click the 'Download Python' button.
+4. Open the downloaded file and go through the installation process. *(Note: On Windows, ensure you check the box to **"Add Python to PATH"**).*
+5. Run the Python IDLE application or use your preferred text editor/IDE.
 
 **Verification:** After installation, verify by running the following command in your Terminal or Command Prompt:
     ```bash
@@ -66,12 +66,12 @@ Steps to download and set up the Python Integrated Development Environment:
     ```
 You are now ready to write and execute Python programs.
 
-<hr>
+---
 
 ### Alternative Setup: Using VS Code
 
 If you prefer using **Visual Studio Code (VS Code)**, follow these additional steps for a seamless development experience:
 
-1.  **Install VS Code:** Download and install VS Code from the [official website](https://code.visualstudio.com/).
-2.  **Install the Python Extension:** Open VS Code and install the official **Python Extension** developed by Microsoft. This extension provides features like IntelliSense, debugging, and code formatting.
-3.  **Run Code:** Open a Python file (`.py`) in VS Code and click the **Run** button (a small triangle icon) in the top right corner, or use the shortcut `Ctrl + F5` to execute the script in the integrated terminal.
+1. **Install VS Code:** Download and install VS Code from the [official website](https://code.visualstudio.com/).
+2. **Install the Python Extension:** Open VS Code and install the official **Python Extension** developed by Microsoft. This extension provides features like IntelliSense, debugging, and code formatting.
+3. **Run Code:** Open a Python file (`.py`) in VS Code and click the **Run** button (a small triangle icon) in the top right corner, or use the shortcut `Ctrl + F5` to execute the script in the integrated terminal.
